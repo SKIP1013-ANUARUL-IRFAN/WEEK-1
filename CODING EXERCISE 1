@@ -1,0 +1,10 @@
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	System.out.println("Name : Anuarul Irfan Bin Mohd Sofian");
+	System.out.println("Matrik no. : 288181");
+	System.out.println("Course : Bachelor of Computer Science");
+	System.out.println("Father : Mohd Sofian Bin Othman");
+	System.out.println("Mother : Norliza Binti Ismail");
+	System.out.println("Address : SB1-30-01, D'Sara Sentral, Jalan Welfare, Kampung Baru Sungai Buloh, 40160, Sungai Buloh, Selangor ");
+	
+}
